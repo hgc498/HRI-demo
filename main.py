@@ -15,8 +15,8 @@ import speech_recognition as sr
 
 #set up dialoflow agent
 #google application credentials need to be changed to the individual credentials
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "C:/Users/harri/Downloads/hsr-project-342014-925bc7480d4f.json"
-project_id = 'hsr-project-342014'
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "..."
+project_id = '...'
 language_code = 'en'
 session_id = 'me'
 
